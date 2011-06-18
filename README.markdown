@@ -6,7 +6,7 @@ Javascript documentation generator with included template to output jquery.js do
 Usage
 =====
 
-    $ git clone git://github.com/daleharvey/jshint-mode.git
+    $ git clone git@github.com:daleharvey/jquery.couch.js-docs.git
     $ java -jar jsrun.jar app/run.js -t=templates/couchjs /path/to/jquery.couch.js
 
 By default the output will go into ./out
