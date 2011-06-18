@@ -3,6 +3,8 @@ jquery.couch.js Documentation Generator
 
 Javascript documentation generator with included template to output jquery.js docs, poweered by [jsdoc-toolkit](http://code.google.com/p/jsdoc-toolkit/)
 
+You can access the generated documentation @ http://daleharvey.github.com/jquery.couch.js-docs/symbols/index.html
+
 Usage
 =====
 
